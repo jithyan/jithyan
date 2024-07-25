@@ -32,4 +32,4 @@ I'm Jithya, currently a senior software engineer at [IAG](https://www.iag.com.au
 
 ## My npm packages
 
-- [Git branch manager](https://www.npmjs.com/package/@jithyan/git-branch-manager) ([![Rust](https://skillicons.dev/icons?i=rust,ts&perline=3)](https://skillicons.dev))
+- [Git branch manager](https://www.npmjs.com/package/@jithyan/git-branch-manager)
