@@ -17,4 +17,15 @@ Here are some ideas to get you started:
 
 I'm Jithya, currently a senior software engineer at [IAG](https://www.iag.com.au/about-us).
 
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+## My primary skills
+
+[![My Skills](https://skillicons.dev/icons?i=ts,nodejs,react&perline=3)](https://skillicons.dev)
+
+## What I'm currently learning
+
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+
+## My websites
+
+- [Resume](https://jithyan.github.io/resume/)
+- [Blog](https://jithyan.github.io/blog/)
