@@ -23,7 +23,7 @@ I'm Jithya, currently a senior software engineer at [IAG](https://www.iag.com.au
 
 ## What I'm currently learning
 
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+[![Rust](https://skillicons.dev/icons?i=rust&perline=3)](https://skillicons.dev)
 
 ## My websites
 
